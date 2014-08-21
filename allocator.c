@@ -116,7 +116,7 @@ void *sal_malloc(u_int32_t n)
 void sal_free(void *object)
 {
 	//delete header
-	
+	int i;
 	//merge regions
 }
 
